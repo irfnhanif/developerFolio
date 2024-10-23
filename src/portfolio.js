@@ -167,6 +167,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-docker"
     },
     {
+      skillName: "git",
+      fontAwesomeClassname: "fab fa-git"
+    },
+    {
       skillName: "trello",
       fontAwesomeClassname: "fab fa-trello"
     }
