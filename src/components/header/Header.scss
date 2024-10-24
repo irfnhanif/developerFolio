@@ -20,6 +20,10 @@
   background-color: $buttonColor !important;
 }
 
+.light-menu {
+  color: $logoNameColor;
+}
+
 .header {
   background-color: $lightBackground1;
   max-width: 100%;
@@ -65,7 +69,8 @@
   font-weight: bold;
   font-variant-ligatures: no-common-ligatures;
   -webkit-font-variant-ligatures: no-common-ligatures;
-  padding: 0 10px;
+  padding: 0px 10px;
+  margin-left: 10px;
 }
 
 /* menu */
